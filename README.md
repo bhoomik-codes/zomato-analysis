@@ -50,7 +50,7 @@ The predictive model uses a **Random Forest Regressor** with the following resul
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/bhoomik-codes/zomato-analysis.git
    cd Zomato_Analysis
    ```
 
