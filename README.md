@@ -74,4 +74,3 @@ Input your restaurant's business model into the sidebar:
 The app will predict your **Rating** and classify the result as a **Hit**, **Moderate Performance**, or **Lower Performance** based on the model's confidence.
 
 ---
-Developed as part of the Zomato Data Analysis Professional Upgrade.
